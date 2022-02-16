@@ -2,7 +2,7 @@
 
 This is a challenge project for GW Coding Bootcamp built using HTML and CSS.  It is a site for a fictional company called Horiseon.  The object of the project was to eliminate redundant CSS, add semantic HTML, and make sure the HTML and CSS was in the correct order.
 
-Link to the live version of the project: 
+Link to the live version of the project: https://davepaulsanders.github.io/horiseon-1/
 
 Screenshots of the project:
 
