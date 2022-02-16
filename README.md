@@ -7,4 +7,5 @@ Link to the live version of the project:
 Screenshots of the project:
 
 ![Screen Shot 2022-02-16 at 4 08 08 PM](https://user-images.githubusercontent.com/81320112/154357508-c811c140-a95c-4ee7-9289-05bca79bb803.png)
-![Screen Shot 2022-02-16 at 4 08 08 PM](https://user-images.githubusercontent.com/81320112/154357837-22d27482-b2ed-4677-adc9-dbac2b736686.png)
+
+![Screen Shot 2022-02-16 at 4 11 22 PM](https://user-images.githubusercontent.com/81320112/154358323-aba5bb6a-a4d4-414b-8ab5-6867f43e9830.png)
